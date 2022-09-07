@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Mr",
+    "firstname": "UserFirstTest",
+    "lastname": "TestUS",
+    "password": "Autoqa01*",
+    "email": "sfcc.autoqa01@gmail.com",
+    "country": "us",
+    "user": "user7",
+    "address": {
+      "country_code": "US",
+      "country": "United States",
+      "streetAddress1": "1 Meadowlands Plz",
+      "streetAddress2": "",
+      "city": "East Rutherford",
+      "state": "NY - New York",
+      "postalCode": "07073",
+      "storeId": "New York"
+    },
+    "address2": {
+      "country_code": "US",
+      "country": "United States",
+      "streetAddress1": "639 E Shaw Ave Ste 169",
+      "streetAddress2": "Suite 169",
+      "city": "Fresno",
+      "state": "California",
+      "postalCode": "93710"
+    },
+    "address3": {
+      "country_code": "US",
+      "country": "United States",
+      "streetAddress1": "Lumiaina St Suite 101",
+      "streetAddress2": "Suite 169",
+      "city": "Waipahu",
+      "state": "Hawaii",
+      "postalCode": "96797"
+    },
+    "phoneNumber": "9876543210",
+    "type": "registered",
+    "birthMonth": "02",
+    "birthDay": "05",
+    "gender": "Male",
+    "promocode": "10PERCENTOFFORDER"
+  },
+  {
+    "title": "Mr",
+    "firstname": "UserSecondTest",
+    "lastname": "TestUS",
+    "password": "Autoqa01*",
+    "email": "sfcc.autoqa01@gmail.com",
+    "country": "us",
+    "user": "user8",
+    "address": {
+      "country_code": "US",
+      "country": "United States",
+      "streetAddress1": "1 Meadowlands Plz",
+      "streetAddress2": "",
+      "city": "East Rutherford",
+      "state": "NY - New York",
+      "postalCode": "07073",
+      "storeId": "New York"
+    },
+    "address2": {
+      "country_code": "US",
+      "country": "United States",
+      "streetAddress1": "639 E Shaw Ave Ste 169",
+      "streetAddress2": "Suite 169",
+      "city": "Fresno",
+      "state": "California",
+      "postalCode": "93710"
+    },
+    "address3": {
+      "country_code": "US",
+      "country": "United States",
+      "streetAddress1": "Lumiaina St Suite 101",
+      "streetAddress2": "Suite 169",
+      "city": "Waipahu",
+      "state": "Hawaii",
+      "postalCode": "96797"
+    },
+    "phoneNumber": "9876543210",
+    "type": "registered",
+    "birthMonth": "02",
+    "birthDay": "05",
+    "gender": "Male",
+    "promocode": "10PERCENTOFFORDER"
+  }
+]
